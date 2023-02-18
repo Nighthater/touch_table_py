@@ -7,7 +7,7 @@
 
 Pins:
 
-0 - 15: Display
-16:     IR OUT
-21:     Button IN
-22:     Piezo OUT
+0 - 15: Display  
+16:     IR OUT  
+21:     Button IN  
+22:     Piezo OUT  
